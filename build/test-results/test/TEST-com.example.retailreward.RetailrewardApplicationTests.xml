@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.retailreward.RetailrewardApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-18T17:00:06" hostname="akilbabus-MacBook-Pro.local" time="0.727">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.example.retailreward.RetailrewardApplicationTests" time="0.727"/>
+  <system-out><![CDATA[12:00:05.005 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.retailreward.RetailrewardApplicationTests]: RetailrewardApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+12:00:05.105 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.retailreward.RetailrewardApplication for test class com.example.retailreward.RetailrewardApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.3)
+
+2024-03-18T12:00:05.437-05:00  INFO 11599 --- [retailreward] [    Test worker] c.e.r.RetailrewardApplicationTests       : Starting RetailrewardApplicationTests using Java 17.0.10 with PID 11599 (started by akilbabuyarlagadda in /Users/akilbabuyarlagadda/Downloads/retailreward)
+2024-03-18T12:00:05.439-05:00  INFO 11599 --- [retailreward] [    Test worker] c.e.r.RetailrewardApplicationTests       : No active profile set, falling back to 1 default profile: "default"
+2024-03-18T12:00:06.373-05:00  INFO 11599 --- [retailreward] [    Test worker] c.e.r.RetailrewardApplicationTests       : Started RetailrewardApplicationTests in 1.137 seconds (process running for 2.125)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
